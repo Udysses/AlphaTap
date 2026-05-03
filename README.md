@@ -46,7 +46,7 @@ cp .env.example .env
 
 ## Running
 
-### stdio (default — for Claude Desktop, Cursor, etc.)
+### studio (default — for Claude Desktop, Cursor, etc.)
 
 ```bash
 python server.py
