@@ -1,4 +1,4 @@
-# market-intel-mcp
+# AlphaTap
 
 A [Model Context Protocol](https://modelcontextprotocol.io) server that gives AI agents clean, structured access to financial market data.
 
