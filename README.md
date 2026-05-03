@@ -300,7 +300,3 @@ ruff format server.py
 ```
 
 ---
-
-## License
-
-MIT
