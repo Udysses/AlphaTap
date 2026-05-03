@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-market-intel-mcp — Market Intelligence MCP Server
+AlphaTap MCP
 
 Four tools:
   get_price          — stock quote (Alpha Vantage) or crypto price (CoinGecko)
