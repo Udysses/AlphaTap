@@ -286,8 +286,6 @@ market-intel-mcp/
 
 ---
 
----
-
 ## Usage Note
 **This repository is for portfolio display and review only.** 
 The code is not licensed for public use, distribution, or modification. If you are interested in using this server for a project or contributing to its development, please see the **Copyright & Contributions** section below.
